@@ -1,3 +1,4 @@
 1.	Les commandes
 
 git status -> Vérifier le status de la modification
+git add ‘nomdufichier’ -> Ajouter un fichier modifier ou un nouveau fichier
